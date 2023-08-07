@@ -1,0 +1,87 @@
+{
+  "students": [
+    {
+      "name": "arun",
+      "gender": "Male",
+      "physics": 88,
+      "id": 1
+    },
+    {
+      "name": "rajesh",
+      "gender": "Male",
+      "physics": 96,
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 5
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 6
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 7
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 8
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 9
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 10
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 11
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 12
+    },
+    {
+      "name": "Appu",
+      "physics": "67",
+      "id": 13
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 14
+    },
+    {
+      "name": "arun",
+      "physics": "96",
+      "id": 15
+    },
+    {
+      "physics": "96",
+      "name": "arun",
+      "id": 16
+    },
+    {
+      "name": "arun",
+      "physics": "96",
+      "id": 18
+    }
+  ]
+}
